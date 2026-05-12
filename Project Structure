@@ -1,0 +1,20 @@
+springboot-ecommerce-backend-api
+│
+├── src/main/java/com/ecommerce
+│   ├── config
+│   ├── controller
+│   ├── dto
+│   ├── entity
+│   ├── enums
+│   ├── exception
+│   ├── repository
+│   ├── security
+│   ├── service
+│   ├── service/impl
+│   └── EcommerceApplication.java
+│
+├── src/main/resources
+│   ├── application.properties
+│
+├── pom.xml
+└── README.md
